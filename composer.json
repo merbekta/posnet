@@ -1,0 +1,14 @@
+{
+    "name": "merbekta/posnet",
+    "description": "Posnet", 
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
+
